@@ -4,3 +4,7 @@
 > 目前只有哲学和诗词
 >
 > 将来计划加上政治经济学和读书笔记
+
+> [!WARNING]
+>
+> 📄 本仓库所有原创内容采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可证。
