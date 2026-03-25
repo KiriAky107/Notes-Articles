@@ -5,7 +5,6 @@
      <tr>
        <td><img src="https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey" alt="License"></td>
        <td><img src="https://img.shields.io/badge/status-updating-brightgreen" alt="Status"></td>
-       <td><img src="https://img.shields.io/github/last-commit/KiriAky107/Notes-Articles?label=最后更新" alt="Last Commit"></td>
        <td><img src="https://visitor-badge.laobi.icu/badge?page_id=KiriAky107.Notes-Articles" alt="Visitors"></td>
      </tr>
    </table>
@@ -31,6 +30,7 @@
       <circle cx="12" cy="9" r="1.5" fill="#FFB347" />
     </svg>
   </div>
+</div>
 
 
 本仓库主要收录我非技术类的公开文章、笔记、诗词、札记等。
